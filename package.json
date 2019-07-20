@@ -1,0 +1,30 @@
+{
+  "name": "product_manager",
+  "version": "1.0.0",
+  "description": "Manager the product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namntph06792/product_manager.git"
+  },
+  "keywords": [
+    "Product",
+    "Manager",
+    "Nodejs",
+    "Android",
+    "MongoDB"
+  ],
+  "author": "Itachi Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namntph06792/product_manager/issues"
+  },
+  "homepage": "https://github.com/namntph06792/product_manager#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
